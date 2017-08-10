@@ -11,7 +11,7 @@
 
 #import "AppDelegate.h"
 #import "DemoListViewController.h"
-// 测试
+// 测试 我是一个好人
 @interface AppDelegate ()
 
 @end
